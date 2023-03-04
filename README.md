@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently Studying **CDAC At IACSD (Pune)**
 
-- 🌱 I’m currently learning **React**
-
 - 📫 LinkedIn [https://www.linkedin.com/in/pritish-thakare-a6264b263](https://www.linkedin.com/in/pritish-thakare-a6264b263)
 
 - 💬 Ask me about **Java Web,DotNet C#,MERN,SQL**
